@@ -1,4 +1,4 @@
-## Hi there! I'm Jinyeong Park😼
+## Hello! I'm Jinaen😼 안녕하세요! Jinaen입니다.
 
 - 🔭 I’m currently studying Business Administration & IT Engineering at Sookmyung Women's University in Korea.
 - 🌱 I’m currently learning Backend Development, Data Analytics, and AWS.
@@ -46,4 +46,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fire-long&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jinaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fire-long&show_icons=true&theme=nightowl)
