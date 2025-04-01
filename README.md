@@ -35,6 +35,8 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
+
+
 ### 🕶️ &nbsp;Studying...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -43,4 +45,5 @@
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fire-long&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
