@@ -40,5 +40,4 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 
-
-![Jinaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fire-long&show_icons=true&theme=nightowl)
+![](https://visitor-badge.glitch.me/badge?page_id=fire-long)
