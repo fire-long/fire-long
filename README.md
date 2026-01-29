@@ -11,7 +11,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?style=for-the-badge&logo=javascript&logoColor=f5f5f5)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=f5f5f5)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
